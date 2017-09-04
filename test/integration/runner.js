@@ -15,14 +15,14 @@ var tests = require('waterline-adapter-tests'),
  */
 
 var config = {
-  host: 'localhost',
-  user: 'root',
-  password: '',
-  database: 'sails_mysql'
+    host: 'localhost',
+    user: 'root',
+    password: '',
+    database: 'sails_mysql'
 };
 
 /**
  * Run Tests
  */
 
-var suite = new tests({ adapter: adapter, config: config });
+var suite = new tests({adapter: adapter, config: config});
