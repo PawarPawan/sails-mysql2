@@ -1,6 +1,6 @@
 {
   "name": "sails-mysql2",
-  "version": "0.9.31",
+  "version": "0.9.32",
   "description": "MySQL and MariaDB adapter for Sails.js",
   "main": "lib/adapter.js",
   "scripts": {
